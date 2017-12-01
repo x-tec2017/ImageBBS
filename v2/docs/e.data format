@@ -1,0 +1,32 @@
+Record #              variable        comment
+1                       ca            Total calls
+12                      ur            Total users
+17                      d3$
+18                      pp$
+19                      z$             Date/Time last logoff
+20                      p1%, p2%, p3%
+31
+35                      am$, d6$      Date/Time log reset
+36                      mc
+37                      y%            Device Type 0=LtK 1=CMD
+38                      lk%           Lt.K Device #
+39                                    Lt.K Drive # ?
+40                      df%           Highest Device # 
+41                       a             Printer Mode 4,4,a opens printer channel
+42                       a            Reads Value (a) then pokes 17136,a
+43                                    Mask Character
+44                                    Version date
+45                       tz$          Time Zone
+46                                    Main Prompt
+47                       bn$          BBS Name
+48                       c1$          Entering Chat Mode message
+49                       c2$          Exiting Chat Mode message
+50                                    Holds netsub id# increments by 1 when netsub message written
+51                       cc$          Board Identifier
+52                                    System device/drive
+53                                    Email device/drive
+54                                    Etc. device/drive
+55                                    Directory device/drive
+56                                    Plus File device/drive
+57                                    User device/drive
+58                        nc          Credits to new user
