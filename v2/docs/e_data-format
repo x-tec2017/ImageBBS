@@ -32,12 +32,11 @@ e.data format
 30 ^
 31 ur [written at setup]
 32 ^
-33 ^
+33 y%  Clock set device type: 1=CMD, 2=Lt.Kernal, 3=Last Automaint Timestamp [4=External CMD Device, newly added]
 34 y1% External CMD device (related to clock set method, #37)
 35 am$ date/time of last log reset [am$ written at setup]
 36 mc  Macro count - +/IM.macros
-37 y%  Clock set device type: 1=CMD, 2=Lt.Kernal, 3=Last Automaint Timestamp [4=External CMD Device, newly added]
-	[formerly system reservation password]
+37 System reservation password type (0=none, 1=one call, 2=all calls) and password
 38 lk% Lt.Kernal device number
 39 ^
 40 df% Default prompt color
